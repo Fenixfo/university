@@ -3,7 +3,7 @@ import socket
 import tweepy
 
 #Hashtags que se utilizarán
-hashtags=['#OnePiece','#Luffy','#Zoro','#Namy','#Ussop','#Chopper','#Robin','#Franky','#Brook','#Jimbe']
+hashtags=['#OnePiece','#Luffy','#Zoro','#Namy','#Ussop','#Chopper','#Robin','#Franky','#Brook','#Jimbe','#Sanji']
 #API y Token de twitter
 apikey="Iz5iMwwgbu8K7f6BKk8pkgoQW"
 apisecret="avypXpdc1bZl8mIYw85ybo1AWATK6UC5KwGnm8k44cXRlpXGAs"
