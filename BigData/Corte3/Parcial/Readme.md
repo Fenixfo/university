@@ -37,7 +37,7 @@ Se abren 3 conexiones con Putty las cuales tengan:
   ```
   Se debe ejecutar el archivo tweet.py
   ```
-   python server.py
+   python tweet.py
   ```
   Se debe ejecutar el archivo process.py
   ```
