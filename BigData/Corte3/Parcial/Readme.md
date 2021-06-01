@@ -98,4 +98,6 @@ Se abren 3 conexiones con Putty las cuales tengan:
    sudo nano parcial3.html
   ```
 Importante cambiar la dirección del EC2 en el parcial.html cada vez que se reinicie este
+además de verificar que la instancia tenga la regla de entrada para tipo HTML desde
+cualquier IP
   
