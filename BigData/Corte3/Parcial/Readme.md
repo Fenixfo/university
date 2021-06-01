@@ -27,10 +27,17 @@ parcial3
 ### Paso 6: Conexiones Putty
 Se abren 3 conexiones con Putty las cuales tengan:
 
+  Creación del entorno virtual
+  ```
+  virtualenv -p python3 env
+  source env/bin/activate
+  ```
+
   Activar el entorno virtual
   ```
    source env/bin/activate
   ```
+  
   Se debe ejecutar el archivo server.py
   ```
    python server.py
